@@ -1,7 +1,3 @@
-# Профиль GitHub
-
-![Header](https://github.com/GoldenEagle74/GoldenEagle74/raw/main/header.png)
-
 Привет! Я разработчик Python с уклоном в SRE и DevSecOps. Мои проекты исследуют области информационной безопасности, системного и сетевого администрирования. Я всегда готов расширять свои навыки и получать новый опыт в сфере IT.
 
 ## Проекты
@@ -41,5 +37,3 @@
 - Email: mshchannikov@yandex.ru
 
 Если у вас есть вопросы или предложения сотрудничества, не стесняйтесь связаться со мной. Я открыт для новых проектов и возможностей.
-
-![Footer](https://github.com/GoldenEagle74/GoldenEagle74/raw/main/footer.png)
