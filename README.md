@@ -6,7 +6,7 @@
 
 ### EventHub: Онлайн-Платформа для Управления Мероприятиями 📅
 Онлайн-платформа для управления мероприятиями, разработанная с использованием фреймворка Flask.
-[![EventHub](https://eventhub.net/client/assets/logo.1b57315e.png)](https://github.com/GoldenEagle74/Flask-Project)
+[![EventHub](https://github.com/GoldenEagle74/Flask-Project/raw/main/screenshot.png))](https://github.com/GoldenEagle74/Flask-Project)
 
 ### ChatBox 💬
 Общий чат с графическим интерфейсом на основе PyQt6.
