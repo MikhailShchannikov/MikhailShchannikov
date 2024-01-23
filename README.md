@@ -12,7 +12,7 @@ An online event management platform developed using the Flask framework.
 Shared chat box with PyQt6 based GUI.
 [![ChatBox](https://github.com/GoldenEagle74/Chat_Project/raw/main/screenshot.png)](https://github.com/GoldenEagle74/Chat_Project)
 
-#### Automated GRUB boot loader for multiboot flash drive 🖥️
+### Automated GRUB boot loader for multiboot flash drive 🖥️
 Bash script to autodiscover available images and boot partitions.
 [![Multiboot USB](https://github.com/GoldenEagle74/multiboot_usb/raw/main/screenshot.png)](https://github.com/GoldenEagle74/multiboot_usb)
 
